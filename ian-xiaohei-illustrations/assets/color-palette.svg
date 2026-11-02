@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1010" viewBox="0 0 1240 1010" role="img" aria-labelledby="title description">
+  <title id="title">小黑角色色板</title>
+  <desc id="description">十种角色颜色。选择一种用于本次整组插图，或回复随机。</desc>
+  <rect width="1240" height="1010" fill="#ffffff"/>
+  <text x="44" y="70" fill="#17212b" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="36" font-weight="700">小黑角色色板</text>
+  <text x="44" y="112" fill="#56616d" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21">请选择一种颜色用于本次整组插图，也可以回复“随机”</text>
+
+  <g font-family="PingFang SC, Noto Sans CJK SC, sans-serif">
+    <g transform="translate(40 152)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#173A63"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">1</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">海军蓝</text><text x="198" y="98" fill="#56616d" font-size="22">#173A63</text>
+    </g>
+    <g transform="translate(630 152)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#35688C"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">2</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">钢蓝</text><text x="198" y="98" fill="#56616d" font-size="22">#35688C</text>
+    </g>
+    <g transform="translate(40 316)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#1D6470"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">3</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">蓝绿</text><text x="198" y="98" fill="#56616d" font-size="22">#1D6470</text>
+    </g>
+    <g transform="translate(630 316)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#2F634B"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">4</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">松针绿</text><text x="198" y="98" fill="#56616d" font-size="22">#2F634B</text>
+    </g>
+    <g transform="translate(40 480)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#65703B"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">5</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">橄榄绿</text><text x="198" y="98" fill="#56616d" font-size="22">#65703B</text>
+    </g>
+    <g transform="translate(630 480)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#A64E35"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">6</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">赤陶橙</text><text x="198" y="98" fill="#56616d" font-size="22">#A64E35</text>
+    </g>
+    <g transform="translate(40 644)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#946027"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">7</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">琥珀棕</text><text x="198" y="98" fill="#56616d" font-size="22">#946027</text>
+    </g>
+    <g transform="translate(630 644)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#873E4D"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">8</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">莓果红</text><text x="198" y="98" fill="#56616d" font-size="22">#873E4D</text>
+    </g>
+    <g transform="translate(40 808)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#65446F"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">9</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">梅子紫</text><text x="198" y="98" fill="#56616d" font-size="22">#65446F</text>
+    </g>
+    <g transform="translate(630 808)">
+      <rect width="570" height="148" rx="18" fill="#fff" stroke="#dce2e8" stroke-width="2"/>
+      <rect x="20" y="22" width="112" height="104" rx="12" fill="#4B5D70"/>
+      <circle cx="164" cy="48" r="18" fill="#f0f3f6"/><text x="164" y="55" text-anchor="middle" fill="#34404a" font-size="19" font-weight="700">10</text>
+      <text x="198" y="59" fill="#17212b" font-size="26" font-weight="700">石板灰蓝</text><text x="198" y="98" fill="#56616d" font-size="22">#4B5D70</text>
+    </g>
+  </g>
+</svg>

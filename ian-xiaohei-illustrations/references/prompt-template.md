@@ -9,7 +9,7 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-小黑, a small solid-color absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. Use one selected color from the 10-color character palette in `style-dna.md`; if the user did not specify a color, randomly choose one for this task and keep it consistent across the whole image set. If the user specified a color, use it. Apply the chosen color to the complete character body, arms, and legs; keep the eyes white and the hand-drawn outlines black. 小黑 must perform the core conceptual action, not decorate the scene. Make 小黑 serious, deadpan, and slightly bizarre, not cute.
+小黑, a small solid-color absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. Use the color selected for this task from the 10-color character palette in `style-dna.md`; keep it consistent across the whole image set. The user either specified this color or chose the random option before image generation. Apply the chosen color to the complete character body, arms, and legs; keep the eyes white and the hand-drawn outlines black. 小黑 must perform the core conceptual action, not decorate the scene. Make 小黑 serious, deadpan, and slightly bizarre, not cute.
 
 Theme:
 {正文配图主题}
